@@ -1,0 +1,399 @@
+{
+    "varBool": true,
+    "varChar": "c",
+    "varDouble": 1.2,
+    "varFloat": 1.23,
+    "varInt": 566,
+    "varLong": 18,
+    "varString": "BNUY*Fhi89#$^&",
+    "testStruct": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": 1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "varFloat2": 1.2E-18,
+        "varDouble2": 4.89999995746281E+18,
+        "varIn2t": -5435,
+        "varLong2": -18,
+        "varString2": "BNUY*Fhi89#$^&",
+        "varBool2": true,
+        "varChar2": "c"
+    },
+    "testClass": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": -1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "VarFloat2": 1.2E-18,
+        "VarDouble2": 4.89999995746281E+18,
+        "VarInt2": -5435,
+        "VarLong2": -18,
+        "VarString2": "BNUY*Fhi89#$^&",
+        "VarBool2": true,
+        "VarChar2": "c"
+    },
+    "ints": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "strings": [
+        "#DD的撒旦",
+        "顶顶顶顶顶顶顶顶顶顶",
+        "@#￥%……&DFVG",
+        "",
+        "s"
+    ],
+    "testStructs": [
+        {
+            "varBool": false,
+            "varChar": "f",
+            "varFloat": 33.444
+        },
+        {
+            "varBool": false,
+            "varChar": "v",
+            "varFloat": -3.99999E+12
+        },
+        {
+            "varBool": true,
+            "varChar": " ",
+            "varFloat": -888.9999
+        }
+    ],
+    "doubles": [
+        [
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ],
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ]
+        ],
+        [
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ],
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ]
+        ],
+        [
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ],
+            [
+                1.20000004768372,
+                2.45499992370605,
+                2.99999987959237E-13,
+                4.88799973723341E+15,
+                -9.4560004357952E-13,
+                -3.88800008578662E+15,
+                -300000009519104,
+                2.99999994735501E-14,
+                -2.99999994735501E-14
+            ]
+        ]
+    ],
+    "testClassss": [
+        [
+            {
+                "varBool": false,
+                "varChar": "f",
+                "varFloat": 33.444
+            },
+            {
+                "varBool": false,
+                "varChar": "v",
+                "varFloat": -3.99999E+12
+            },
+            {
+                "varBool": true,
+                "varChar": " ",
+                "varFloat": -888.9999
+            },
+            {
+                "varBool": false,
+                "varChar": "@",
+                "varFloat": 3.99E+12
+            }
+        ],
+        [
+            {
+                "varBool": false,
+                "varChar": "f",
+                "varFloat": 33.444
+            },
+            {
+                "varBool": false,
+                "varChar": "v",
+                "varFloat": -3.99999E+12
+            },
+            {
+                "varBool": true,
+                "varChar": " ",
+                "varFloat": -888.9999
+            },
+            {
+                "varBool": false,
+                "varChar": "@",
+                "varFloat": 3.99999E+12
+            }
+        ],
+        [
+            {
+                "varBool": false,
+                "varChar": "f",
+                "varFloat": 33.444
+            },
+            {
+                "varBool": false,
+                "varChar": "v",
+                "varFloat": -3.99999E+12
+            },
+            {
+                "varBool": true,
+                "varChar": " ",
+                "varFloat": -888.9999
+            },
+            {
+                "varBool": false,
+                "varChar": "@",
+                "varFloat": 3.99999E+12
+            }
+        ]
+    ],
+    "TestStructs": [
+        {
+            "varBool": false,
+            "varChar": "f",
+            "varFloat": 33.444
+        },
+        {
+            "varBool": false,
+            "varChar": "v",
+            "varFloat": -3.99999E+12
+        },
+        {
+            "varBool": true,
+            "varChar": " ",
+            "varFloat": -888.9999
+        },
+        {
+            "varBool": false,
+            "varChar": "@",
+            "varFloat": 3.99999E+12
+        }
+    ],
+    "Intss": [
+        [
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106
+            ]
+        ],
+        [
+            [
+                91,
+                92,
+                93,
+                94,
+                95,
+                96
+            ],
+            [
+                911,
+                912,
+                913,
+                914,
+                915,
+                916
+            ],
+            [
+                9101,
+                9102,
+                9103,
+                9104,
+                9105,
+                9106
+            ]
+        ],
+        [
+            [
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            [
+                611,
+                612,
+                613,
+                14,
+                15,
+                16
+            ],
+            [
+                6101,
+                6102,
+                6103,
+                6104,
+                6105,
+                6106
+            ]
+        ]
+    ],
+    "Stringss": [
+        [
+            [
+                "444",
+                "d23re",
+                "*&*(HJ",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ],
+            [
+                "ddd423fdsd",
+                "21DASDADSA",
+                "*&4113##$$*(HJ",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ]
+        ],
+        [
+            [
+                "#DAD",
+                "此次你们",
+                "*&*(HJ",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ],
+            [
+                "%$^&*(HBGKL",
+                "d23re",
+                "*&*(dd",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ]
+        ],
+        [
+            [
+                "asdas",
+                "fs344",
+                "*&*(*(GBVU)",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ],
+            [
+                "asdas",
+                "d23re",
+                "*&*(dadsaHJ",
+                "大家好！\u6211\u662f\u4f60\u7238\u7238！！"
+            ]
+        ]
+    ],
+    "VarFloat2": 1.2E-18,
+    "VarDouble2": 4.89999995746281E+18,
+    "VarInt2": -5435,
+    "VarLong2": -18,
+    "VarString2": "BNUY*Fhi89#$^&",
+    "VarBool2": true,
+    "VarChar2": "c",
+    "VarStruct": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": 1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "varFloat2": 1.2E-18,
+        "varDouble2": 4.89999995746281E+18,
+        "varIn2t": -5435,
+        "varLong2": -18,
+        "varString2": "BNUY*Fhi89#$^&",
+        "varBool2": true,
+        "varChar2": "c"
+    },
+    "VarClass": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": -1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "VarFloat2": 1.2E-18,
+        "VarDouble2": 4.89999995746281E+18,
+        "VarInt2": -5435,
+        "VarLong2": -18,
+        "VarString2": "BNUY*Fhi89#$^&",
+        "VarBool2": true,
+        "VarChar2": "c"
+    }
+}

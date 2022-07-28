@@ -1,0 +1,133 @@
+{
+    "varBool": true,
+    "varChar": "c",
+    "varDouble": 1.2,
+    "varFloat": 1.23,
+    "varInt": 566,
+    "varLong": 18,
+    "varString": "BNUY*Fhi89#$^&",
+    "testStruct": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": 1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "varFloat2": 1.2E-18,
+        "varDouble2": 4.89999995746281E+18,
+        "varIn2t": -5435,
+        "varLong2": -18,
+        "varString2": "BNUY*Fhi89#$^&",
+        "varBool2": true,
+        "varChar2": "c"
+    },
+    "testClass": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": -1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "VarFloat2": 1.2E-18,
+        "VarDouble2": 4.89999995746281E+18,
+        "VarInt2": -5435,
+        "VarLong2": -18,
+        "VarString2": "BNUY*Fhi89#$^&",
+        "VarBool2": true,
+        "VarChar2": "c"
+    },
+    "ints": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "strings": [
+        "#DDµÄÈöµ©",
+        "¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥¶¥",
+        "@#£¤%¡­¡­&DFVG",
+        "",
+        "s"
+    ],
+    "testStructs": [
+        {
+            "varBool": false,
+            "varChar": "f",
+            "varFloat": 33.444
+        },
+        {
+            "varBool": false,
+            "varChar": "v",
+            "varFloat": -3.99999E+12
+        },
+        {
+            "varBool": true,
+            "varChar": " ",
+            "varFloat": -888.9999
+        }
+    ],
+    "TestStructs": [
+        {
+            "varBool": false,
+            "varChar": "f",
+            "varFloat": 33.444
+        },
+        {
+            "varBool": false,
+            "varChar": "v",
+            "varFloat": -3.99999E+12
+        },
+        {
+            "varBool": true,
+            "varChar": " ",
+            "varFloat": -888.9999
+        },
+        {
+            "varBool": false,
+            "varChar": "@",
+            "varFloat": 3.99999E+12
+        }
+    ],
+    "VarFloat2": 1.2E-18,
+    "VarDouble2": 4.89999995746281E+18,
+    "VarInt2": -5435,
+    "VarLong2": -18,
+    "VarString2": "BNUY*Fhi89#$^&",
+    "VarBool2": true,
+    "VarChar2": "c",
+    "VarStruct": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": 1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "varFloat2": 1.2E-18,
+        "varDouble2": 4.89999995746281E+18,
+        "varIn2t": -5435,
+        "varLong2": -18,
+        "varString2": "BNUY*Fhi89#$^&",
+        "varBool2": true,
+        "varChar2": "c"
+    },
+    "VarClass": {
+        "varBool": true,
+        "varChar": "c",
+        "varDouble": -1.2,
+        "varFloat": 1.23,
+        "varInt": 566,
+        "varLong": 18,
+        "varString": "BNUY*Fhi89#$^&",
+        "VarFloat2": 1.2E-18,
+        "VarDouble2": 4.89999995746281E+18,
+        "VarInt2": -5435,
+        "VarLong2": -18,
+        "VarString2": "BNUY*Fhi89#$^&",
+        "VarBool2": true,
+        "VarChar2": "c"
+    }
+}

@@ -1,0 +1,16 @@
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\TestJson001.json
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\TestJson002.json
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\ConsoleRelease.exe
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\ConsoleRelease.pdb
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\CatJson.dll
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\DragonJson.dll
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\DynamicCustomReflection.dll
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\LitJSON.dll
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\Newtonsoft.Json.dll
+D:\g\JsonCompare\ConsoleRelease\bin\x64\Release\Utf8Json.dll
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.csproj.AssemblyReference.cache
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.csproj.SuggestedBindingRedirects.cache
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.csproj.CoreCompileInputs.cache
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.csproj.CopyComplete
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.exe
+D:\g\JsonCompare\ConsoleRelease\obj\x64\Release\ConsoleRelease.pdb
